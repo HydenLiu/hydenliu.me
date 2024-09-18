@@ -43,7 +43,7 @@ export default () => {
       class: 'hover:bg-[#00ACEE]'
     }, {
       text: '',
-      link: 'mailto:hyden518@gmail.com',
+      link: 'mailto:hi@hydenliu.me',
       icon: 'i-ri-mail-fill',
       class: 'hover:bg-gradient-to-r from-[#fd5949] to-[#d6249f]'
     }
